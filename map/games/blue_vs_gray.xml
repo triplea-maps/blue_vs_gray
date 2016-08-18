@@ -7218,184 +7218,184 @@
     </attachment>
     <!-- Check turn -->
     <attachment name="conditionAttachmentJuly" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="11:21:31"/>
+      <option name="rounds" value="11:21:31"/>
     </attachment>
     <attachment name="conditionAttachmentJune" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="10:20:30:40"/>
+      <option name="rounds" value="10:20:30:40"/>
     </attachment>
     <attachment name="conditionAttachmentMay" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="9:19:29:39"/>
+      <option name="rounds" value="9:19:29:39"/>
     </attachment>
     <attachment name="conditionAttachmentApril" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="8:18:28:38"/>
+      <option name="rounds" value="8:18:28:38"/>
     </attachment>
     <attachment name="conditionAttachmentMarch_month" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="7:17:27:37"/>
+      <option name="rounds" value="7:17:27:37"/>
     </attachment>
     <attachment name="conditionAttachmentJan-Feb" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="6:16:26:36"/>
+      <option name="rounds" value="6:16:26:36"/>
     </attachment>
     <attachment name="conditionAttachmentNov-Dec" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="5:15:25:35"/>
+      <option name="rounds" value="5:15:25:35"/>
     </attachment>
     <attachment name="conditionAttachmentOctober" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="4:14:24:34"/>
+      <option name="rounds" value="4:14:24:34"/>
     </attachment>
     <attachment name="conditionAttachmentSeptember" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="3:13:23:33"/>
+      <option name="rounds" value="3:13:23:33"/>
     </attachment>
     <attachment name="conditionAttachmentAugust" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2:12:22:32"/>
+      <option name="rounds" value="2:12:22:32"/>
     </attachment>
     <attachment name="conditionAttachmentTurn1" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="1"/>
+      <option name="rounds" value="1"/>
     </attachment>
     <attachment name="conditionAttachmentTurn2" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2"/>
+      <option name="rounds" value="2"/>
     </attachment>
     <attachment name="conditionAttachmentTurn2+" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="2-+"/>
+      <option name="rounds" value="2-+"/>
     </attachment>
     <attachment name="conditionAttachmentTurn3" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="3"/>
+      <option name="rounds" value="3"/>
     </attachment>
     <attachment name="conditionAttachmentTurn4" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="4"/>
+      <option name="rounds" value="4"/>
     </attachment>
     <attachment name="conditionAttachmentTurn5" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="5"/>
+      <option name="rounds" value="5"/>
     </attachment>
     <attachment name="conditionAttachmentTurn6" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="6"/>
+      <option name="rounds" value="6"/>
     </attachment>
     <attachment name="conditionAttachmentGrant1" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="6-19"/>
+      <option name="rounds" value="6-19"/>
     </attachment>
     <attachment name="conditionAttachmentGrant2" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="20-40"/>
+      <option name="rounds" value="20-40"/>
     </attachment>
     <attachment name="conditionAttachmentTurn7" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="7"/>
+      <option name="rounds" value="7"/>
     </attachment>
     <attachment name="conditionAttachmentTurn8" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="8"/>
+      <option name="rounds" value="8"/>
     </attachment>
     <attachment name="conditionAttachmentTurn8+" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="8-+"/>
+      <option name="rounds" value="8-+"/>
     </attachment>
     <attachment name="conditionAttachmentTurn9" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="9"/>
+      <option name="rounds" value="9"/>
     </attachment>
     <attachment name="conditionAttachmentSherman1" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="9-21"/>
+      <option name="rounds" value="9-21"/>
     </attachment>
     <attachment name="conditionAttachmentSherman2" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="22-40"/>
+      <option name="rounds" value="22-40"/>
     </attachment>
     <attachment name="conditionAttachmentTurn10" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="10"/>
+      <option name="rounds" value="10"/>
     </attachment>
     <attachment name="conditionAttachmentLee3" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="10-22"/>
+      <option name="rounds" value="10-22"/>
     </attachment>
     <attachment name="conditionAttachmentLee2" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="23-40"/>
+      <option name="rounds" value="23-40"/>
     </attachment>
     <attachment name="conditionAttachmentTurn11" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="11"/>
+      <option name="rounds" value="11"/>
     </attachment>
     <attachment name="conditionAttachmentTurn12" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="12"/>
+      <option name="rounds" value="12"/>
     </attachment>
     <attachment name="conditionAttachmentTurn13" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="13"/>
+      <option name="rounds" value="13"/>
     </attachment>
     <attachment name="conditionAttachmentTurn14" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="14"/>
+      <option name="rounds" value="14"/>
     </attachment>
     <attachment name="conditionAttachmentTurn15" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="15"/>
+      <option name="rounds" value="15"/>
     </attachment>
     <attachment name="conditionAttachmentTurn16" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="16"/>
+      <option name="rounds" value="16"/>
     </attachment>
     <attachment name="conditionAttachmentTurn17" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="17"/>
+      <option name="rounds" value="17"/>
     </attachment>
     <attachment name="conditionAttachmentTurn18" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="18"/>
+      <option name="rounds" value="18"/>
     </attachment>
     <attachment name="conditionAttachmentTurn18+" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="18-+"/>
+      <option name="rounds" value="18-+"/>
     </attachment>
     <attachment name="conditionAttachmentTurn19" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="19"/>
+      <option name="rounds" value="19"/>
     </attachment>
     <attachment name="conditionAttachmentTurn20" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="20"/>
+      <option name="rounds" value="20"/>
     </attachment>
     <attachment name="conditionAttachmentTurn21" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="21"/>
+      <option name="rounds" value="21"/>
     </attachment>
     <attachment name="conditionAttachmentTurn22" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="22"/>
+      <option name="rounds" value="22"/>
     </attachment>
     <attachment name="conditionAttachmentTurn23" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="23"/>
+      <option name="rounds" value="23"/>
     </attachment>
     <attachment name="conditionAttachmentTurn24" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="24"/>
+      <option name="rounds" value="24"/>
     </attachment>
     <attachment name="conditionAttachmentTurn25" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="25"/>
+      <option name="rounds" value="25"/>
     </attachment>
     <attachment name="conditionAttachmentTurn26" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="26"/>
+      <option name="rounds" value="26"/>
     </attachment>
     <attachment name="conditionAttachmentTurn27" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="27"/>
+      <option name="rounds" value="27"/>
     </attachment>
     <attachment name="conditionAttachmentTurn28" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="28"/>
+      <option name="rounds" value="28"/>
     </attachment>
     <attachment name="conditionAttachmentTurn28+" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="28-+"/>
+      <option name="rounds" value="28-+"/>
     </attachment>
     <attachment name="conditionAttachmentTurn29" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="29"/>
+      <option name="rounds" value="29"/>
     </attachment>
     <attachment name="conditionAttachmentTurn30" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="30"/>
+      <option name="rounds" value="30"/>
     </attachment>
     <attachment name="conditionAttachmentTurn31" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="31"/>
+      <option name="rounds" value="31"/>
     </attachment>
     <attachment name="conditionAttachmentTurn32" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="32"/>
+      <option name="rounds" value="32"/>
     </attachment>
     <attachment name="conditionAttachmentTurn33" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="33"/>
+      <option name="rounds" value="33"/>
     </attachment>
     <attachment name="conditionAttachmentTurn34" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="34"/>
+      <option name="rounds" value="34"/>
     </attachment>
     <attachment name="conditionAttachmentTurn35" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="35"/>
+      <option name="rounds" value="35"/>
     </attachment>
     <attachment name="conditionAttachmentTurn36" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="36"/>
+      <option name="rounds" value="36"/>
     </attachment>
     <attachment name="conditionAttachmentTurn37" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="37"/>
+      <option name="rounds" value="37"/>
     </attachment>
     <attachment name="conditionAttachmentTurn38" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="38"/>
+      <option name="rounds" value="38"/>
     </attachment>
     <attachment name="conditionAttachmentTurn39" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="39"/>
+      <option name="rounds" value="39"/>
     </attachment>
     <attachment name="conditionAttachmentTurn40" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
-      <option name="turns" value="40"/>
+      <option name="rounds" value="40"/>
     </attachment>
     <!-- Check city ownership -->
     <attachment name="conditionAttachmentNorthOwnsAlbany" attachTo="North" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
@@ -39182,10 +39182,10 @@
     <property name="Super Sub Defence Bonus" value="0" editable="false">
       <number min="0" max="1"/>
     </property>
-    <property name="Units repair at end of round" value="true" editable="false">
+    <property name="Units Repair Hits End Turn" value="true" editable="false">
       <boolean/>
     </property>
-    <property name="Units repair at beginning of round" value="false" editable="false">
+    <property name="Units Repair Hits Start Turn" value="false" editable="false">
       <boolean/>
     </property>
     <!-- END OF TYPICAL OPTIONAL PROPERTIES -->
