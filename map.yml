@@ -1,0 +1,3 @@
+map_name: blue_vs_gray
+games:
+- {game_name: Blue vs. Gray, file_name: blue_vs_gray.xml}
